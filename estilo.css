@@ -1,0 +1,103 @@
+body {background-color: #333333;}
+
+.bandera {
+    background-color: #cccccc;
+    width: 500px;
+    height: 300px;
+    margin: 20px;
+    float: left;
+}
+
+.col1{
+    background-color: yellow;
+    height: 40%;
+}
+.col2 {
+    background-color: blue;
+    height: 33%;
+}
+.col3 {
+    background-color: red;
+    height: 33%;
+}
+
+
+.ale1 {
+    background-color: black;
+    height: 33.33%;
+}
+.ale2 {
+    background-color:#dd0000;
+    height: 33.33%;
+}
+.ale3 {
+    background-color: #fc0;
+    height: 33.33%;
+}
+
+.fran1 {
+    background-color: blue;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.fran2 {
+    background-color: white;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.fran3 {
+    background-color: red;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+
+.mex1 {
+    background-color: green;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.mex2 {
+    background-color: white;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+
+.mex3 {
+    background-color: red;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+
+.esp1 {
+    background-color: #dd0000;
+    height: 25%;
+}
+.esp2 {
+    background-color: #fc0;
+    height: 50%;
+}
+.esp3 {
+    background-color: #dd0000;
+    height: 25%;
+}
+
+.arg1 {
+    background-color: cornflowerblue;
+    height: 30%
+}
+.arg2 {
+    background-color: #cccccc;
+    height: 40%;
+}
+.arg3 {
+    background-color: cornflowerblue;
+    height: 30%
+}
+
+
